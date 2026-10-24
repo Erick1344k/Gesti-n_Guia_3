@@ -9,4 +9,5 @@ crispy-bootstrap5
 django-storages
 boto3
 gunicorn
-pytest-djangoPillow
+pytest-django
+Pillow
